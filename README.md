@@ -1,4 +1,4 @@
-## repositoryfor the : 🏆 100DaysOfCode 🏆 
+## Repository for the : 🏆 100DaysOfCode 🏆 
 
 
 
