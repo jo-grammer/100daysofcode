@@ -10,7 +10,7 @@
 
 ####  🎮 Games 🎮
 
-* Pong Game
+* [Pong Game](https://github.com/jo-grammer/PongGame)
 * Snake Game
 
 ####  📲 Apps 📲
