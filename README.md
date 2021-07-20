@@ -7,5 +7,7 @@
 
 ##### * 🎮 Games 🎮
 
+* Pong Game
+* Snake Game
 
 ##### * 📲 Apps 📲
