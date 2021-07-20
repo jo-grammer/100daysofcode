@@ -11,6 +11,6 @@
 ####  🎮 Games 🎮
 
 * [Pong Game](https://github.com/jo-grammer/PongGame)
-* Snake Game
+* [Snake Game](https://github.com/jo-grammer/snake_game)
 
 ####  📲 Apps 📲
